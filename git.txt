@@ -49,3 +49,22 @@ git remote add origin https://github.com/BAnanthu/git-study.git
 
 //to connect to new repo
  git remote set-url origin https://github.com/BAnanthu/git-study.git
+
+
+git commit -m ""
+git push -u origin master
+
+
+
+
+
+
+
+git branch (to show current branch/all branches)
+
+//create branch
+git branch newbranch
+
+
+// to move to newbranch 
+git checkout newbranch
