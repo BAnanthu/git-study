@@ -64,7 +64,17 @@ git branch (to show current branch/all branches)
 
 //create branch
 git branch newbranch
-
+newbranch also
 
 // to move to newbranch 
 git checkout newbranch
+
+
+git log
+
+//create a file in new branch 
+//commmit 
+//checkout to master branch 
+
+//merge data from newbranch
+git merge newbranch
