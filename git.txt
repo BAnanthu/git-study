@@ -27,5 +27,25 @@ touch index.js
 
 
 
-untracked files
+//to untracked files
 git rm --cached -r .
+
+
+//conf gitignore file
+.gitignore file
+		use / for folder eg: /js
+
+
+touch README.md
+git add README.md
+
+
+
+
+
+//to add connection to git repo
+git remote add origin https://github.com/BAnanthu/git-study.git
+
+
+//to connect to new repo
+ git remote set-url origin https://github.com/BAnanthu/git-study.git
